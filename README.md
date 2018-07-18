@@ -1,7 +1,7 @@
 "# eBooks"
+http://csharpindepth.com/Downloads.aspx
 
 **…or create a new repository on the command line**
-
 echo "# eBooks" >> README.md
 git init
 git add README.md
